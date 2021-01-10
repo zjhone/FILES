@@ -1,3 +1,3 @@
 # FILES
 
-This is my own DISK!
+This is a temporary folder!
